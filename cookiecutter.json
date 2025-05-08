@@ -1,7 +1,7 @@
 {
-    "app_name": "My React App",
-    "app_slug": "{{ cookiecutter.app_name.lower().replace(' ', '_') }}",
-    "author": "Your Name",
+    "project_name": "My React App",
+    "project_slug": "my_react_app",
+    "project_owner": "Your Name",
     "email": "you@example.com",
-    "description": "A short description of the React app."
+    "project_description": "A short description of the React app."
 }
